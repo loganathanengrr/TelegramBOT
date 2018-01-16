@@ -1,5 +1,5 @@
 # Telegram BOT
-This is a Telegram bot that perform echo the user each input retrived from database. It was build for learning purposes and for writing a tutorial on chatbots. It was written in Python and build under Flask microframework.
+This is a Telegram bot that perform echo the user each input retrived from database. It was build for learning purposes and for writing a tutorial on chatbots. It was written in Python.
 
 # Installation
 Clone this repository. Install the requirements.
